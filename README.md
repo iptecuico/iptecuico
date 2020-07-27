@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[1]: https://www.linkedin.com/in/iptecuico/
+[![linkedin](https://raw.githubusercontent.com/iptecuico/iptecuico/master/linkedin.png)][1]
+
 <!--
 **iptecuico/iptecuico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
