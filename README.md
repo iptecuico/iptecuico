@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[1]: https://www.linkedin.com/in/iptecuico/
-[![linkedin](https://raw.githubusercontent.com/iptecuico/iptecuico/master/linkedin.png)][1]
+<br />
+
+📫 Connect with me on:
+<p>
+<a href="https://bit.ly/ip-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin"></a>
 
 <!--
 **iptecuico/iptecuico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
