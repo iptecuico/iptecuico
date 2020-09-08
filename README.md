@@ -4,7 +4,7 @@
 
 📫 Connect with me on:
 <p>
-<a href="https://bit.ly/ip-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin"></a>
+<a href="https://linkedin.iptecuico.com"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin"></a>
 
 <!--
 **iptecuico/iptecuico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
